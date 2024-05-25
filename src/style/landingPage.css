@@ -1,0 +1,86 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/bg/main.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    font-size: 4rem;
+    font-weight: 700;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    color: black;
+    letter-spacing: 4px;
+}
+
+.welcome {
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1;
+    color: black;
+    letter-spacing: 4px;
+}
+
+.nav {
+    font-size: 20px;
+    font-weight: 600;
+    text-shadow: 2px 2px black;
+}
+
+.terbaru {
+    height: auto;
+    background: url("../assets/bg/moon.jpg");
+    background-size: cover;
+}
+
+.action {
+    height: auto;
+    background: url("../assets/bg/jakarta.jpg");
+    background-size: cover;
+}
+
+.comedy {
+    height: auto;
+    background: url("../assets/bg/guy.jpg");
+    background-size: cover;
+}
+
+.horor {
+    height: auto;
+    background: url("../assets/bg/kereta.jpg");
+    background-size: cover;
+}
+
+.romance {
+    height: auto;
+    background: url("../assets/bg/dilan.jpg");
+    background-size: cover;
+}
+
+.superhero {
+    height: auto;
+    background: url("../assets/bg/guardian.jpg");
+    background-size: cover;
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images {
+    height: 500px;
+}
+
+.footer {
+    justify-content: center;
+    display: flex;
+}
